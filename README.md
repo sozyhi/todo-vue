@@ -1,6 +1,7 @@
 # todo-vue
 
 项目灵感来源于大佬：lizzz0523：https://github.com/lizzz0523/limni/tree/master/todo-app
+
 设计：https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept
 
 ## Project setup
